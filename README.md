@@ -6,5 +6,5 @@ This github account is about websites that provide daily, weekly, and monthly ca
 
 * 🌍  I'm based in Samutsakhon in Thailand
 * ✉️  Join my car rental website [click](https://rodchaomahachai.github.io/)
-* 🧠  Join my website [click](https://txpxt-xuto.github.io/](https://sites.google.com/sksc.ac.th/portfolio-by-auto/%E0%B8%AB%E0%B8%99%E0%B8%B2%E0%B9%81%E0%B8%A3%E0%B8%81?authuser=2))
+* 🧠  Join my website [click](https://sites.google.com/sksc.ac.th/portfolio-by-auto/%E0%B8%AB%E0%B8%99%E0%B8%B2%E0%B9%81%E0%B8%A3%E0%B8%81?authuser=2)
 
