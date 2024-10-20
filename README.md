@@ -1,13 +1,8 @@
 ![image](https://img5.pic.in.th/file/secure-sv1/-Eng.png)
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tapat Toungsakul
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ========================================================================================================================================
 
-
-Student
--------
-
 This github account is about websites that provide daily, weekly, and monthly car rental services.
-
 
 * 🌍  I'm based in Samutsakhon in Thailand
 * ✉️  Join my car rental website [click](https://rodchaomahachai.github.io/)
