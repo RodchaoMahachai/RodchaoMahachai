@@ -7,7 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student
 -------
 
-I've been learning C and C++ for 5 years. Now interested in studying programming to solve problems, for example TOI, ICPC, NERC and others.
+This github account is about websites that provide daily, weekly, and monthly car rental services.
 
 * 🌍  I'm based in Samutsakhon in Thailand
 * ✉️  Join my car rental website [click](https://rodchaomahachai.github.io/)
